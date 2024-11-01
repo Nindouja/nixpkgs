@@ -174,6 +174,37 @@
       },
       "name": "acejump"
     },
+    "7125": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip",
+        "242.21829.162": "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip",
+        "242.22855.75": "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip",
+        "242.23339.18": "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip",
+        "242.23339.24": "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip",
+        "242.23726.100": "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip",
+        "242.23726.102": "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip",
+        "242.23726.103": "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip",
+        "242.23726.107": "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip",
+        "242.23726.110": "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip",
+        "242.23726.96": "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip"
+      },
+      "name": "grep-console"
+    },
     "7219": {
       "compatible": [
         "idea-ultimate",
@@ -818,6 +849,7 @@
     "https://plugins.jetbrains.com/files/631/622862/python-242.23726.103.zip": "sha256-rLGDVLj+HBe3EFzuwCNkHvVPaqT3z7qZnCil0kAO75I=",
     "https://plugins.jetbrains.com/files/6981/623497/ini-242.23726.110.zip": "sha256-gSbiV74fQNU0xOkcK5BHozmy9Msslkhx9APH0JY74J8=",
     "https://plugins.jetbrains.com/files/7086/610924/AceJump.zip": "sha256-Qp24juITBXEF5izdzayWq28Ioy4/kgT0qz6snZ0dND0=",
+    "https://plugins.jetbrains.com/files/7125/627704/GrepConsole-13.2.0-IJ2023.3.zip": "sha256-KY5VRiLJJwa9OVVog1W3MboZjwVboYwYm+i4eqooo44=",
     "https://plugins.jetbrains.com/files/7219/605730/Symfony_Plugin-2024.1.276.zip": "sha256-drNmhJMe+kuY2fcHjY+SQmkACvFk0rVI4vAhyZ/bgLc=",
     "https://plugins.jetbrains.com/files/7320/619870/PHP_Annotations-11.1.0.zip": "sha256-jvK3J3NwUrOO7+izYM/SagnqJGAUHa9yGFCcZvkPfrA=",
     "https://plugins.jetbrains.com/files/7322/595111/python-ce-242.21829.142.zip": "sha256-DwQNhbNO1zk75lcf35spNnzo0u103UAhXignhO+grek=",
