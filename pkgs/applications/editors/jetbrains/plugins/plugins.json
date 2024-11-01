@@ -687,6 +687,37 @@
       },
       "name": "mermaid"
     },
+    "21667": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip",
+        "242.21829.162": "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip",
+        "242.22855.75": "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip",
+        "242.23339.18": "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip",
+        "242.23339.24": "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip",
+        "242.23726.100": "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip",
+        "242.23726.102": "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip",
+        "242.23726.103": "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip",
+        "242.23726.107": "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip",
+        "242.23726.110": "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip",
+        "242.23726.96": "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip"
+      },
+      "name": "code-complexity"
+    },
     "22407": {
       "compatible": [
         "clion",
@@ -780,6 +811,7 @@
     "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip": "sha256-KrzZTKZMQqoEMw+vDUv2jjs0EX0leaPBkU8H/ecq/oI=",
     "https://plugins.jetbrains.com/files/20146/537545/Mermaid-0.0.22_IJ.232.zip": "sha256-DUiIQYIzYoXmgtBakSLtMB+xxJMaR70Jgg9erySa3wQ=",
     "https://plugins.jetbrains.com/files/2162/542984/StringManipulation-9.14.1.zip": "sha256-OqeQCqFe8iW/8NPg+9i+UKh+twIPQ9uLZrItMukCi7k=",
+    "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip": "sha256-U59LRLkps8DdaqbogC/JGJj4e96rmwAo72ggrzh1Q2w=",
     "https://plugins.jetbrains.com/files/22407/623488/intellij-rust-242.23726.110.zip": "sha256-faN4knSIL9qR31zRBKt1TmxJFNBDtdGiViFJj+rLnRw=",
     "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip": "sha256-rAkdESeESJmHqT1V9u4NgoEdVy86/rOD4Tq+fudA5ig=",
     "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip": "sha256-Uq5RdVQTyqRMsEwDZT6Kldv2alt0EVMCABEt/xQUHow=",
