@@ -811,6 +811,37 @@
       },
       "name": "darcula-pitch-black"
     },
+    "16604": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip",
+        "242.21829.162": "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip",
+        "242.22855.75": "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip",
+        "242.23339.18": "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip",
+        "242.23339.24": "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip",
+        "242.23726.100": "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip",
+        "242.23726.102": "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip",
+        "242.23726.103": "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip",
+        "242.23726.107": "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip",
+        "242.23726.110": "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip",
+        "242.23726.96": "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip"
+      },
+      "name": "extra-toolwindow-colorful-icons"
+    },
     "17718": {
       "compatible": [
         "clion",
@@ -1057,6 +1088,7 @@
     "https://plugins.jetbrains.com/files/14004/608477/protoeditor-242.23339.11.zip": "sha256-gI3sY4jDXsY6pUhzqejJnvGJwLj6bNMs45UR8ekrZcs=",
     "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar": "sha256-eXInfAqY3yEZRXCAuv3KGldM1pNKEioNwPB0rIGgJFw=",
     "https://plugins.jetbrains.com/files/164/590339/IdeaVIM-2.16.0.zip": "sha256-uMIrYoZE16X/K96HuDJx8QMh6wUbi4+qSw+HJAq7ukI=",
+    "https://plugins.jetbrains.com/files/16604/625861/Extra_ToolWindow_Colorful_Icons-2024.5.4.zip": "sha256-jjxnYLX+IddQl6oD8dpzC1xhjUtQV4N8lV9GG3Rmyg8=",
     "https://plugins.jetbrains.com/files/17718/625434/github-copilot-intellij-1.5.28.7313.zip": "sha256-Kioi/UzfSAXm+AzoM5LOqnuitQjDohU7VdevIL1tQaE=",
     "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip": "sha256-KrzZTKZMQqoEMw+vDUv2jjs0EX0leaPBkU8H/ecq/oI=",
     "https://plugins.jetbrains.com/files/20146/537545/Mermaid-0.0.22_IJ.232.zip": "sha256-DUiIQYIzYoXmgtBakSLtMB+xxJMaR70Jgg9erySa3wQ=",
