@@ -700,6 +700,37 @@
       },
       "name": "rust"
     },
+    "23043": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip",
+        "242.21829.162": "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip",
+        "242.22855.75": "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip",
+        "242.23339.18": "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip",
+        "242.23339.24": "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip",
+        "242.23726.100": "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip",
+        "242.23726.102": "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip",
+        "242.23726.103": "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip",
+        "242.23726.107": "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip",
+        "242.23726.110": "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip",
+        "242.23726.96": "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip"
+      },
+      "name": "mermaid-chart"
+    },
     "25594": {
       "compatible": [
         "clion",
@@ -750,6 +781,7 @@
     "https://plugins.jetbrains.com/files/20146/537545/Mermaid-0.0.22_IJ.232.zip": "sha256-DUiIQYIzYoXmgtBakSLtMB+xxJMaR70Jgg9erySa3wQ=",
     "https://plugins.jetbrains.com/files/2162/542984/StringManipulation-9.14.1.zip": "sha256-OqeQCqFe8iW/8NPg+9i+UKh+twIPQ9uLZrItMukCi7k=",
     "https://plugins.jetbrains.com/files/22407/623488/intellij-rust-242.23726.110.zip": "sha256-faN4knSIL9qR31zRBKt1TmxJFNBDtdGiViFJj+rLnRw=",
+    "https://plugins.jetbrains.com/files/23043/592099/MermaidChart-1.1.7.zip": "sha256-rAkdESeESJmHqT1V9u4NgoEdVy86/rOD4Tq+fudA5ig=",
     "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip": "sha256-Uq5RdVQTyqRMsEwDZT6Kldv2alt0EVMCABEt/xQUHow=",
     "https://plugins.jetbrains.com/files/631/622862/python-242.23726.103.zip": "sha256-rLGDVLj+HBe3EFzuwCNkHvVPaqT3z7qZnCil0kAO75I=",
     "https://plugins.jetbrains.com/files/6981/623497/ini-242.23726.110.zip": "sha256-gSbiV74fQNU0xOkcK5BHozmy9Msslkhx9APH0JY74J8=",
