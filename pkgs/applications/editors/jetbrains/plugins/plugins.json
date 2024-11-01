@@ -461,6 +461,37 @@
       },
       "name": "csv-editor"
     },
+    "10080": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip",
+        "242.21829.162": "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip",
+        "242.22855.75": "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip",
+        "242.23339.18": "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip",
+        "242.23339.24": "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip",
+        "242.23726.100": "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip",
+        "242.23726.102": "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip",
+        "242.23726.103": "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip",
+        "242.23726.107": "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip",
+        "242.23726.110": "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip",
+        "242.23726.96": "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip"
+      },
+      "name": "rainbow-brackets"
+    },
     "11349": {
       "compatible": [
         "clion",
@@ -855,6 +886,7 @@
   "files": {
     "https://plugins.jetbrains.com/files/10037/585243/CSVEditor-3.4.0-241.zip": "sha256-QwguD4ENrL7GxmX+CGEyCPowbAPNpYgntVGAbHxOlyQ=",
     "https://plugins.jetbrains.com/files/10037/614791/intellij-csv-validator-4.0.0.zip": "sha256-DuztEfLOmwSWrWk+Q9rWYn/BzHrkx2giKTTpIbZdAOQ=",
+    "https://plugins.jetbrains.com/files/10080/579101/intellij-rainbow-brackets-2024.2.6-241.zip": "sha256-E3kDcJm627fvYyLC5TnxMxke+vleUT9oWIO0y21/+Pk=",
     "https://plugins.jetbrains.com/files/11349/627511/aws-toolkit-jetbrains-standalone-3.37-241.zip": "sha256-KN1TE6IvCzbUb3E/qhxZW81tkDGEszXNO/IyR8wxXWY=",
     "https://plugins.jetbrains.com/files/11349/627513/aws-toolkit-jetbrains-standalone-3.37-242.zip": "sha256-EyEsxvsWOziund4pbUBUWPZwZ1FiNw3o1bb6KejhH5o=",
     "https://plugins.jetbrains.com/files/12024/562684/ReSharperPlugin.CognitiveComplexity-2024.2.0-eap04.zip": "sha256-RguBHNIfaxgpd5mBW9/+v4C5smH0MoLTazcPJqPAovI=",
