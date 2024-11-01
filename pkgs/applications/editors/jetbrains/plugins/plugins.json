@@ -594,6 +594,37 @@
       },
       "name": "eclipse-keymap"
     },
+    "12896": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip",
+        "242.21829.162": "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip",
+        "242.22855.75": "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip",
+        "242.23339.18": "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip",
+        "242.23339.24": "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip",
+        "242.23726.100": "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip",
+        "242.23726.102": "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip",
+        "242.23726.103": "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip",
+        "242.23726.107": "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip",
+        "242.23726.110": "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip",
+        "242.23726.96": "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip"
+      },
+      "name": "rainbow-csv"
+    },
     "13017": {
       "compatible": [
         "clion",
@@ -894,6 +925,7 @@
     "https://plugins.jetbrains.com/files/12062/586741/keymap-vscode-242.20224.385.zip": "sha256-LpooujwYaX339yZJVe7HPYIOw+YdJLeEtRgwPxLJ9eI=",
     "https://plugins.jetbrains.com/files/12559/508216/keymap-eclipse-241.14494.150.zip": "sha256-/hEx0gIFvUXD799tRmMHAt9Z5ziFgaQs1RX0zQwTJIA=",
     "https://plugins.jetbrains.com/files/12559/579737/keymap-eclipse-242.20224.204.zip": "sha256-bAN0ifNiUqj51TYc7RLKwTMtv9OxjzqEQwXa6KtFlsU=",
+    "https://plugins.jetbrains.com/files/12896/173977/RainbowCSV.zip": "sha256-Q+gqKG/2bHD49Xtn9MNlYJQGtNF/7tIay9F7ndi8uwA=",
     "https://plugins.jetbrains.com/files/13017/508253/keymap-visualStudio-241.14494.150.zip": "sha256-tNgt0vIkdCB/LcaSj58mT6cNlw4lytRo0cZSt7sIERU=",
     "https://plugins.jetbrains.com/files/13017/591092/keymap-visualStudio-242.21829.44.zip": "sha256-aIwiMT30L3KCvbrkMUdgDdUdyBqGmT4w6c4pZEnMGNo=",
     "https://plugins.jetbrains.com/files/1347/623989/scala-intellij-bin-2024.2.29.zip": "sha256-mgR+H69cpaXwF1z/HiWYFYzukcvEE2cPVZ6bP3TjHTk=",
