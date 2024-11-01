@@ -430,6 +430,15 @@
       },
       "name": "aws-toolkit"
     },
+    "12024": {
+      "compatible": [
+        "rider"
+      ],
+      "builds": {
+        "242.23726.100": "https://plugins.jetbrains.com/files/12024/562684/ReSharperPlugin.CognitiveComplexity-2024.2.0-eap04.zip"
+      },
+      "name": "cognitivecomplexity"
+    },
     "12062": {
       "compatible": [
         "clion",
@@ -724,6 +733,7 @@
     "https://plugins.jetbrains.com/files/10037/614791/intellij-csv-validator-4.0.0.zip": "sha256-DuztEfLOmwSWrWk+Q9rWYn/BzHrkx2giKTTpIbZdAOQ=",
     "https://plugins.jetbrains.com/files/11349/627511/aws-toolkit-jetbrains-standalone-3.37-241.zip": "sha256-KN1TE6IvCzbUb3E/qhxZW81tkDGEszXNO/IyR8wxXWY=",
     "https://plugins.jetbrains.com/files/11349/627513/aws-toolkit-jetbrains-standalone-3.37-242.zip": "sha256-EyEsxvsWOziund4pbUBUWPZwZ1FiNw3o1bb6KejhH5o=",
+    "https://plugins.jetbrains.com/files/12024/562684/ReSharperPlugin.CognitiveComplexity-2024.2.0-eap04.zip": "sha256-RguBHNIfaxgpd5mBW9/+v4C5smH0MoLTazcPJqPAovI=",
     "https://plugins.jetbrains.com/files/12062/508223/keymap-vscode-241.14494.150.zip": "sha256-LeQ5vi9PCJYmWNmT/sutWjSlwZaAYYuEljVJBYG2VpY=",
     "https://plugins.jetbrains.com/files/12062/586741/keymap-vscode-242.20224.385.zip": "sha256-LpooujwYaX339yZJVe7HPYIOw+YdJLeEtRgwPxLJ9eI=",
     "https://plugins.jetbrains.com/files/12559/508216/keymap-eclipse-241.14494.150.zip": "sha256-/hEx0gIFvUXD799tRmMHAt9Z5ziFgaQs1RX0zQwTJIA=",
