@@ -430,6 +430,37 @@
       },
       "name": "key-promoter-x"
     },
+    "9836": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip",
+        "242.21829.162": "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip",
+        "242.22855.75": "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip",
+        "242.23339.18": "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip",
+        "242.23339.24": "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip",
+        "242.23726.100": "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip",
+        "242.23726.102": "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip",
+        "242.23726.103": "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip",
+        "242.23726.107": "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip",
+        "242.23726.110": "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip",
+        "242.23726.96": "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip"
+      },
+      "name": "randomness"
+    },
     "10037": {
       "compatible": [
         "clion",
@@ -957,6 +988,7 @@
     "https://plugins.jetbrains.com/files/8607/606922/NixIDEA-0.4.0.16.zip": "sha256-9GMqs/hSavcw1E4ZJTLDH1lx3HEeQ5NR8BT+Q9pN3io=",
     "https://plugins.jetbrains.com/files/9568/608453/go-plugin-242.23339.11.zip": "sha256-eEZw5q0+IHlf1Re3M6RwZOF7AXMn99a7n4nF54x5yew=",
     "https://plugins.jetbrains.com/files/9568/616936/go-plugin-242.23726.16.zip": "sha256-BJcGRcK6Rze6QCraNxIMJW1qoDXcP+crH7kYvYBWJK0=",
-    "https://plugins.jetbrains.com/files/9792/574593/Key_Promoter_X-2024.2.0.zip": "sha256-EtmKAjIUV4HFT9Bn8K5XLb4rbzKj3TZsRB/dVqJLm3E="
+    "https://plugins.jetbrains.com/files/9792/574593/Key_Promoter_X-2024.2.0.zip": "sha256-EtmKAjIUV4HFT9Bn8K5XLb4rbzKj3TZsRB/dVqJLm3E=",
+    "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip": "sha256-BTQUKGDvEyovrBCuSxEyQaykEs68R+8CsV3w6mIuIh4="
   }
 }
