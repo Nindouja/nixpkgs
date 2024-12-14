@@ -646,6 +646,37 @@
       },
       "name": "nixidea"
     },
+    "9525": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/9525/589325/idea-php-dotenv-plugin-2024.2.1.zip",
+        "243.22562.112": "https://plugins.jetbrains.com/files/9525/603167/idea-php-dotenv-plugin-2024.3.zip",
+        "243.22562.115": "https://plugins.jetbrains.com/files/9525/603167/idea-php-dotenv-plugin-2024.3.zip",
+        "243.22562.145": "https://plugins.jetbrains.com/files/9525/603167/idea-php-dotenv-plugin-2024.3.zip",
+        "243.22562.151": "https://plugins.jetbrains.com/files/9525/603167/idea-php-dotenv-plugin-2024.3.zip",
+        "243.22562.155": "https://plugins.jetbrains.com/files/9525/603167/idea-php-dotenv-plugin-2024.3.zip",
+        "243.22562.164": "https://plugins.jetbrains.com/files/9525/603167/idea-php-dotenv-plugin-2024.3.zip",
+        "243.22562.171": "https://plugins.jetbrains.com/files/9525/603167/idea-php-dotenv-plugin-2024.3.zip",
+        "243.22562.180": "https://plugins.jetbrains.com/files/9525/603167/idea-php-dotenv-plugin-2024.3.zip",
+        "243.22562.186": "https://plugins.jetbrains.com/files/9525/603167/idea-php-dotenv-plugin-2024.3.zip",
+        "243.22562.187": "https://plugins.jetbrains.com/files/9525/603167/idea-php-dotenv-plugin-2024.3.zip"
+      },
+      "name": "-env-files-support"
+    },
     "9568": {
       "compatible": [
         "goland",
@@ -1584,6 +1615,8 @@
     "https://plugins.jetbrains.com/files/8195/630064/toml-243.21565.122.zip": "sha256-vKigewUGi06by9/6a9HbjN51zPAIafdk6w4MFG4kwG8=",
     "https://plugins.jetbrains.com/files/8554/649092/featuresTrainer-243.22562.187.zip": "sha256-dYT0y5eeqcx6ix+fPnpwzi3z+NOB0u7L83gS9S9LiV8=",
     "https://plugins.jetbrains.com/files/8607/606922/NixIDEA-0.4.0.16.zip": "sha256-9GMqs/hSavcw1E4ZJTLDH1lx3HEeQ5NR8BT+Q9pN3io=",
+    "https://plugins.jetbrains.com/files/9525/589325/idea-php-dotenv-plugin-2024.2.1.zip": "sha256-SATU8TMtRAJdL3DdG7oHov/O2NNCntInsb38o7FUW7I=",
+    "https://plugins.jetbrains.com/files/9525/603167/idea-php-dotenv-plugin-2024.3.zip": "sha256-hR7hC2phDJnHXxPy80WlEDFAhZHtMCu7nqYvAb0VeTI=",
     "https://plugins.jetbrains.com/files/9568/646604/go-plugin-243.22562.145.zip": "sha256-7UBnL3+belHgt1oNOyD8Oo4CHQPUx0/w6guZxts84ck=",
     "https://plugins.jetbrains.com/files/9792/633158/Key_Promoter_X-2024.2.2.zip": "sha256-Mzmmq0RzMKZeKfBSo7FHvzeEtPGIrwqEDLAONQEsR1M=",
     "https://plugins.jetbrains.com/files/9836/619873/intellij-randomness-3.3.3-signed.zip": "sha256-BTQUKGDvEyovrBCuSxEyQaykEs68R+8CsV3w6mIuIh4="
