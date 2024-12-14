@@ -1398,6 +1398,37 @@
       },
       "name": "code-complexity"
     },
+    "21904": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/21904/637709/intellij-developer-tools-plugin-5.1.1-signed.zip",
+        "243.22562.112": "https://plugins.jetbrains.com/files/21904/637708/intellij-developer-tools-plugin-6.0.1-signed.zip",
+        "243.22562.115": "https://plugins.jetbrains.com/files/21904/637708/intellij-developer-tools-plugin-6.0.1-signed.zip",
+        "243.22562.145": "https://plugins.jetbrains.com/files/21904/637708/intellij-developer-tools-plugin-6.0.1-signed.zip",
+        "243.22562.151": "https://plugins.jetbrains.com/files/21904/637708/intellij-developer-tools-plugin-6.0.1-signed.zip",
+        "243.22562.155": "https://plugins.jetbrains.com/files/21904/637708/intellij-developer-tools-plugin-6.0.1-signed.zip",
+        "243.22562.164": "https://plugins.jetbrains.com/files/21904/637708/intellij-developer-tools-plugin-6.0.1-signed.zip",
+        "243.22562.171": "https://plugins.jetbrains.com/files/21904/637708/intellij-developer-tools-plugin-6.0.1-signed.zip",
+        "243.22562.180": "https://plugins.jetbrains.com/files/21904/637708/intellij-developer-tools-plugin-6.0.1-signed.zip",
+        "243.22562.186": "https://plugins.jetbrains.com/files/21904/637708/intellij-developer-tools-plugin-6.0.1-signed.zip",
+        "243.22562.187": "https://plugins.jetbrains.com/files/21904/637708/intellij-developer-tools-plugin-6.0.1-signed.zip"
+      },
+      "name": "developer-tools"
+    },
     "21962": {
       "compatible": [
         "clion",
@@ -1649,6 +1680,8 @@
     "https://plugins.jetbrains.com/files/2162/640476/StringManipulation-9.15.0.zip": "sha256-TZPup3EJ0cBv4i2eVAQwVmmzy0rmt4KptEsk3C7baEM=",
     "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip": "sha256-U59LRLkps8DdaqbogC/JGJj4e96rmwAo72ggrzh1Q2w=",
     "https://plugins.jetbrains.com/files/21667/618339/code-complexity-plugin-1.6.1.zip": "sha256-OGaYvQfSdAh0OZhYSpZJD14uyx8FSagEhUEinZmR3N4=",
+    "https://plugins.jetbrains.com/files/21904/637708/intellij-developer-tools-plugin-6.0.1-signed.zip": "sha256-5x1hfQafT25AFKB/LBuVvm863ahN5nnKZvQqv95jEAM=",
+    "https://plugins.jetbrains.com/files/21904/637709/intellij-developer-tools-plugin-5.1.1-signed.zip": "sha256-EJRBUMEeX0SmauR1ge/xpDwzUB4I9/Ximt9bcHbMLEs=",
     "https://plugins.jetbrains.com/files/21962/640901/clouds-docker-gateway-243.22562.53.zip": "sha256-0RpS240PL4xJdyxUzDmtWGiAxSc6b087OAMUVoFWHAU=",
     "https://plugins.jetbrains.com/files/22407/649101/intellij-rust-243.22562.187.zip": "sha256-9oi0QzKYZ1p62RBdC6n6H1D7+9DWGsuz7NJziJy38jc=",
     "https://plugins.jetbrains.com/files/22857/584849/vcs-gitlab-241.19072.24.zip": "sha256-2XLlxmngBYJsU+W7/UU1xCygZYtFbWsq5m9G9jc/ydk=",
