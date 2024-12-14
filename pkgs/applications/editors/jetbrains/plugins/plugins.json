@@ -626,6 +626,37 @@
       },
       "name": "rainbow-brackets"
     },
+    "11058": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip",
+        "243.22562.112": "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip",
+        "243.22562.115": "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip",
+        "243.22562.145": "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip",
+        "243.22562.151": "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip",
+        "243.22562.155": "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip",
+        "243.22562.164": "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip",
+        "243.22562.171": "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip",
+        "243.22562.180": "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip",
+        "243.22562.186": "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip",
+        "243.22562.187": "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip"
+      },
+      "name": "extra-icons"
+    },
     "11349": {
       "compatible": [
         "clion",
@@ -1133,6 +1164,7 @@
     "https://plugins.jetbrains.com/files/10037/585243/CSVEditor-3.4.0-241.zip": "sha256-QwguD4ENrL7GxmX+CGEyCPowbAPNpYgntVGAbHxOlyQ=",
     "https://plugins.jetbrains.com/files/10037/646414/intellij-csv-validator-4.0.1.zip": "sha256-CtBwMIR78LlFcFVc/RScXShIaibyxjFp/weenl+PzK8=",
     "https://plugins.jetbrains.com/files/10080/645834/intellij-rainbow-brackets-2024.2.8-241.zip": "sha256-IWRvV8NDYnoxxvQVOf3K3pueD+Hp7ctaWOmFHnaVTJg=",
+    "https://plugins.jetbrains.com/files/11058/634710/Extra_Icons-2024.9.1.zip": "sha256-GxPlEM1mb6ZrL5fcKqkmyKuH8pHub+HpqtB8XajdDbU=",
     "https://plugins.jetbrains.com/files/11349/648222/aws-toolkit-jetbrains-standalone-3.45-241.zip": "sha256-vcgPsB0zUciwDEJgdlHv+UdsjNaziBjH6R0ChYzxX6s=",
     "https://plugins.jetbrains.com/files/11349/648226/aws-toolkit-jetbrains-standalone-3.45-243.zip": "sha256-BakhuCeOtpKbapZhy0+7+sMylLD59Z861nyiW3O/oH4=",
     "https://plugins.jetbrains.com/files/12024/622380/ReSharperPlugin.CognitiveComplexity-2024.3.0-eap04.zip": "sha256-X2x7uyWoV4aBI8E5bw35QfzmySWzbEAZ2nvdo5i+t+s=",
