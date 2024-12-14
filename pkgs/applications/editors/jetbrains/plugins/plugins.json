@@ -750,6 +750,33 @@
         "243.22562.187": "https://plugins.jetbrains.com/files/22407/649101/intellij-rust-243.22562.187.zip"
       },
       "name": "rust"
+    },
+    "25594": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-ultimate",
+        "phpstorm",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "243.22562.112": "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip",
+        "243.22562.115": "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip",
+        "243.22562.145": "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip",
+        "243.22562.151": "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip",
+        "243.22562.155": "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip",
+        "243.22562.164": "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip",
+        "243.22562.171": "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip",
+        "243.22562.180": "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip",
+        "243.22562.186": "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip",
+        "243.22562.187": "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip"
+      },
+      "name": "nix-lsp"
     }
   },
   "files": {
@@ -772,6 +799,7 @@
     "https://plugins.jetbrains.com/files/20146/633971/Mermaid-0.0.24_IJ.243.zip": "sha256-jGWRU0g120qYvvFiUFI10zvprTsemuIq3XmIjYxZGts=",
     "https://plugins.jetbrains.com/files/2162/640476/StringManipulation-9.15.0.zip": "sha256-TZPup3EJ0cBv4i2eVAQwVmmzy0rmt4KptEsk3C7baEM=",
     "https://plugins.jetbrains.com/files/22407/649101/intellij-rust-243.22562.187.zip": "sha256-9oi0QzKYZ1p62RBdC6n6H1D7+9DWGsuz7NJziJy38jc=",
+    "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip": "sha256-Uq5RdVQTyqRMsEwDZT6Kldv2alt0EVMCABEt/xQUHow=",
     "https://plugins.jetbrains.com/files/631/646610/python-243.22562.145.zip": "sha256-yStRdrh7gtKB56b0qBNfjlFlkLhWKgeULcJtETMnHGw=",
     "https://plugins.jetbrains.com/files/6981/648802/ini-243.22562.180.zip": "sha256-1t6E5rVDOOuWmbYsOI21fMx68OA1o2P4EBw9vI2lvMM=",
     "https://plugins.jetbrains.com/files/7086/518678/AceJump.zip": "sha256-kVUEgfEKUupV/qlB4Dpzi5pFHjhVvX74XIPetKtjysM=",
