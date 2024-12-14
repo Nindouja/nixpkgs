@@ -282,6 +282,37 @@
       },
       "name": "asciidoc"
     },
+    "7425": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar",
+        "243.22562.112": "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar",
+        "243.22562.115": "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar",
+        "243.22562.145": "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar",
+        "243.22562.151": "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar",
+        "243.22562.155": "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar",
+        "243.22562.164": "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar",
+        "243.22562.171": "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar",
+        "243.22562.180": "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar",
+        "243.22562.186": "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar",
+        "243.22562.187": "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar"
+      },
+      "name": "wakatime"
+    },
     "7499": {
       "compatible": [
         "clion",
@@ -1073,6 +1104,7 @@
     "https://plugins.jetbrains.com/files/7322/646590/python-ce-243.22562.145.zip": "sha256-45UtQRZMtKF6addrrB3A+goeyICMfcZ2FKcJvJSqgg4=",
     "https://plugins.jetbrains.com/files/7391/561441/asciidoctor-intellij-plugin-0.42.2.zip": "sha256-oKczkLHAk2bJRNRgToVe0ySEJGF8+P4oWqQ33olwzWw=",
     "https://plugins.jetbrains.com/files/7391/634204/asciidoctor-intellij-plugin-0.43.3.zip": "sha256-lwUvD2Ehs1kUWGdZFQZILDLIq73rNBm/8yT1rJgKU5g=",
+    "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar": "sha256-Z7ZWDomXnTdHFKOElMkt53imef6aT7H5XeD6lOOFxfQ=",
     "https://plugins.jetbrains.com/files/7499/642327/gittoolbox-600.0.9_233-signed.zip": "sha256-jYBv7bzq4mLOI0KtVj1FLSCM60+WNGoN0Hmq4CavB2U=",
     "https://plugins.jetbrains.com/files/7499/642329/gittoolbox-600.0.9_243-signed.zip": "sha256-BnBHfWDw9nqAmmOBHFGp3kesEREFpPSnjrJ1HjfgX1I=",
     "https://plugins.jetbrains.com/files/8554/649092/featuresTrainer-243.22562.187.zip": "sha256-dYT0y5eeqcx6ix+fPnpwzi3z+NOB0u7L83gS9S9LiV8=",
