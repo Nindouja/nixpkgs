@@ -1274,6 +1274,37 @@
       },
       "name": "codeglance-pro"
     },
+    "18922": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar",
+        "243.22562.112": "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar",
+        "243.22562.115": "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar",
+        "243.22562.145": "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar",
+        "243.22562.151": "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar",
+        "243.22562.155": "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar",
+        "243.22562.164": "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar",
+        "243.22562.171": "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar",
+        "243.22562.180": "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar",
+        "243.22562.186": "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar",
+        "243.22562.187": "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar"
+      },
+      "name": "gerry-themes"
+    },
     "20146": {
       "compatible": [
         "clion",
@@ -1582,6 +1613,7 @@
     "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip": "sha256-KrzZTKZMQqoEMw+vDUv2jjs0EX0leaPBkU8H/ecq/oI=",
     "https://plugins.jetbrains.com/files/18824/524458/CodeGlance_Pro-1.8.5-signed.zip": "sha256-gfJFRnwAUgzXFAUV/vxn3HRGafm8wUlBYPHIyC+bmyg=",
     "https://plugins.jetbrains.com/files/18824/632773/CodeGlancePro-1.9.4-signed.zip": "sha256-QW80RCf7TAoGK+ZTNvpjBIQUhpAyVGdVe874PFupWaM=",
+    "https://plugins.jetbrains.com/files/18922/645069/GerryThemes.jar": "sha256-JO0F/PT4Q03/RqksIiDJXA94vxijDFiNPg8VF1P0CGk=",
     "https://plugins.jetbrains.com/files/20146/537545/Mermaid-0.0.22_IJ.232.zip": "sha256-DUiIQYIzYoXmgtBakSLtMB+xxJMaR70Jgg9erySa3wQ=",
     "https://plugins.jetbrains.com/files/20146/633971/Mermaid-0.0.24_IJ.243.zip": "sha256-jGWRU0g120qYvvFiUFI10zvprTsemuIq3XmIjYxZGts=",
     "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip": "sha256-N66Bh0AwHmg5N9PNguRAGtpJ/dLMWMp3rxjTgz9poFo=",
