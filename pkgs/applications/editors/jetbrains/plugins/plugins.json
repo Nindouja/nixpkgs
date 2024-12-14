@@ -278,6 +278,37 @@
       },
       "name": "symfony-support"
     },
+    "7275": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": null,
+        "243.22562.112": null,
+        "243.22562.115": null,
+        "243.22562.145": null,
+        "243.22562.151": null,
+        "243.22562.155": null,
+        "243.22562.164": null,
+        "243.22562.171": null,
+        "243.22562.180": null,
+        "243.22562.186": null,
+        "243.22562.187": null
+      },
+      "name": "codeglance"
+    },
     "7320": {
       "compatible": [
         "idea-ultimate",
