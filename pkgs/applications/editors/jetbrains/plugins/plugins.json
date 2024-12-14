@@ -599,6 +599,25 @@
       },
       "name": "darcula-pitch-black"
     },
+    "14823": {
+      "compatible": [
+        "idea-ultimate",
+        "phpstorm",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "webstorm"
+      ],
+      "builds": {
+        "243.22562.112": null,
+        "243.22562.145": null,
+        "243.22562.151": null,
+        "243.22562.164": null,
+        "243.22562.171": null,
+        "243.22562.180": null
+      },
+      "name": "full-line-code-completion"
+    },
     "17718": {
       "compatible": [
         "clion",
