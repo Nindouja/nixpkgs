@@ -1057,6 +1057,37 @@
       },
       "name": "mermaid"
     },
+    "21551": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip",
+        "243.22562.112": "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip",
+        "243.22562.115": "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip",
+        "243.22562.145": "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip",
+        "243.22562.151": "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip",
+        "243.22562.155": "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip",
+        "243.22562.164": "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip",
+        "243.22562.171": "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip",
+        "243.22562.180": "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip",
+        "243.22562.186": "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip",
+        "243.22562.187": "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip"
+      },
+      "name": "ferris"
+    },
     "21667": {
       "compatible": [
         "clion",
@@ -1246,6 +1277,7 @@
     "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip": "sha256-KrzZTKZMQqoEMw+vDUv2jjs0EX0leaPBkU8H/ecq/oI=",
     "https://plugins.jetbrains.com/files/20146/537545/Mermaid-0.0.22_IJ.232.zip": "sha256-DUiIQYIzYoXmgtBakSLtMB+xxJMaR70Jgg9erySa3wQ=",
     "https://plugins.jetbrains.com/files/20146/633971/Mermaid-0.0.24_IJ.243.zip": "sha256-jGWRU0g120qYvvFiUFI10zvprTsemuIq3XmIjYxZGts=",
+    "https://plugins.jetbrains.com/files/21551/323564/ferris-2021.1.zip": "sha256-N66Bh0AwHmg5N9PNguRAGtpJ/dLMWMp3rxjTgz9poFo=",
     "https://plugins.jetbrains.com/files/2162/640476/StringManipulation-9.15.0.zip": "sha256-TZPup3EJ0cBv4i2eVAQwVmmzy0rmt4KptEsk3C7baEM=",
     "https://plugins.jetbrains.com/files/21667/615107/code-complexity-plugin-1.6.0.zip": "sha256-U59LRLkps8DdaqbogC/JGJj4e96rmwAo72ggrzh1Q2w=",
     "https://plugins.jetbrains.com/files/21667/618339/code-complexity-plugin-1.6.1.zip": "sha256-OGaYvQfSdAh0OZhYSpZJD14uyx8FSagEhUEinZmR3N4=",
