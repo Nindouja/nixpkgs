@@ -81,6 +81,37 @@
       },
       "name": "string-manipulation"
     },
+    "6884": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": null,
+        "243.22562.112": "https://plugins.jetbrains.com/files/6884/630038/handlebars-243.21565.122.zip",
+        "243.22562.115": "https://plugins.jetbrains.com/files/6884/630038/handlebars-243.21565.122.zip",
+        "243.22562.145": "https://plugins.jetbrains.com/files/6884/630038/handlebars-243.21565.122.zip",
+        "243.22562.151": "https://plugins.jetbrains.com/files/6884/630038/handlebars-243.21565.122.zip",
+        "243.22562.155": "https://plugins.jetbrains.com/files/6884/630038/handlebars-243.21565.122.zip",
+        "243.22562.164": "https://plugins.jetbrains.com/files/6884/630038/handlebars-243.21565.122.zip",
+        "243.22562.171": "https://plugins.jetbrains.com/files/6884/630038/handlebars-243.21565.122.zip",
+        "243.22562.180": "https://plugins.jetbrains.com/files/6884/630038/handlebars-243.21565.122.zip",
+        "243.22562.186": "https://plugins.jetbrains.com/files/6884/630038/handlebars-243.21565.122.zip",
+        "243.22562.187": "https://plugins.jetbrains.com/files/6884/630038/handlebars-243.21565.122.zip"
+      },
+      "name": "handlebars-mustache"
+    },
     "6954": {
       "compatible": [
         "clion",
@@ -1287,6 +1318,7 @@
     "https://plugins.jetbrains.com/files/24559/635985/Extra_Tools_Pack-2024.12.2.zip": "sha256-QP/1xctixw0EMGN+cVT5VBBWjvZzC3nxI2NT98CeQBY=",
     "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip": "sha256-Uq5RdVQTyqRMsEwDZT6Kldv2alt0EVMCABEt/xQUHow=",
     "https://plugins.jetbrains.com/files/631/646610/python-243.22562.145.zip": "sha256-yStRdrh7gtKB56b0qBNfjlFlkLhWKgeULcJtETMnHGw=",
+    "https://plugins.jetbrains.com/files/6884/630038/handlebars-243.21565.122.zip": "sha256-pFKAZ8xFNfUh7/Hi4NYPDQAhRRYm4WKTpCQELqBfb40=",
     "https://plugins.jetbrains.com/files/6981/648802/ini-243.22562.180.zip": "sha256-1t6E5rVDOOuWmbYsOI21fMx68OA1o2P4EBw9vI2lvMM=",
     "https://plugins.jetbrains.com/files/7086/518678/AceJump.zip": "sha256-kVUEgfEKUupV/qlB4Dpzi5pFHjhVvX74XIPetKtjysM=",
     "https://plugins.jetbrains.com/files/7086/610924/AceJump.zip": "sha256-Qp24juITBXEF5izdzayWq28Ioy4/kgT0qz6snZ0dND0=",
