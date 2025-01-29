@@ -259,6 +259,34 @@
       },
       "name": "asciidoc"
     },
+    "7793": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "webstorm"
+      ],
+      "builds": {
+        "243.22562.218": null,
+        "243.22562.220": null,
+        "243.22562.250": null,
+        "243.23654.112": null,
+        "243.23654.114": null,
+        "243.23654.115": null,
+        "243.23654.117": null,
+        "243.23654.119": null,
+        "243.23654.120": null,
+        "243.23654.19": null
+      },
+      "name": "markdown"
+    },
     "8182": {
       "compatible": [
         "clion",
