@@ -1340,6 +1340,38 @@
       },
       "name": "continue"
     },
+    "22857": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/22857/584849/vcs-gitlab-241.19072.24.zip",
+        "243.22562.218": "https://plugins.jetbrains.com/files/22857/640903/vcs-gitlab-243.22562.53.zip",
+        "243.22562.220": "https://plugins.jetbrains.com/files/22857/640903/vcs-gitlab-243.22562.53.zip",
+        "243.22562.250": "https://plugins.jetbrains.com/files/22857/640903/vcs-gitlab-243.22562.53.zip",
+        "243.23654.112": "https://plugins.jetbrains.com/files/22857/654839/vcs-gitlab-243.23654.19.zip",
+        "243.23654.114": "https://plugins.jetbrains.com/files/22857/654839/vcs-gitlab-243.23654.19.zip",
+        "243.23654.115": "https://plugins.jetbrains.com/files/22857/654839/vcs-gitlab-243.23654.19.zip",
+        "243.23654.116": "https://plugins.jetbrains.com/files/22857/654839/vcs-gitlab-243.23654.19.zip",
+        "243.23654.117": "https://plugins.jetbrains.com/files/22857/654839/vcs-gitlab-243.23654.19.zip",
+        "243.23654.119": "https://plugins.jetbrains.com/files/22857/654839/vcs-gitlab-243.23654.19.zip",
+        "243.23654.120": "https://plugins.jetbrains.com/files/22857/654839/vcs-gitlab-243.23654.19.zip",
+        "243.23654.19": "https://plugins.jetbrains.com/files/22857/654839/vcs-gitlab-243.23654.19.zip"
+      },
+      "name": "gitlab"
+    },
     "23043": {
       "compatible": [
         "clion",
@@ -1497,6 +1529,9 @@
     "https://plugins.jetbrains.com/files/21667/618339/code-complexity-plugin-1.6.1.zip": "sha256-OGaYvQfSdAh0OZhYSpZJD14uyx8FSagEhUEinZmR3N4=",
     "https://plugins.jetbrains.com/files/22407/672481/intellij-rust-243.23654.180.zip": "sha256-9MB+kR8GZePzVU6i9sr+vFyeGqGnXwGRThTv6lKouVU=",
     "https://plugins.jetbrains.com/files/22707/645830/continue-intellij-extension-0.0.83.zip": "sha256-vMV26l2J4vhFnjrJnluwf/3qKoWNSvTfMFKPmquJJ50=",
+    "https://plugins.jetbrains.com/files/22857/584849/vcs-gitlab-241.19072.24.zip": "sha256-2XLlxmngBYJsU+W7/UU1xCygZYtFbWsq5m9G9jc/ydk=",
+    "https://plugins.jetbrains.com/files/22857/640903/vcs-gitlab-243.22562.53.zip": "sha256-lDStIaRy9ZtCXZxM2RRrz/5oZeL90aRVS63wC4XkJNw=",
+    "https://plugins.jetbrains.com/files/22857/654839/vcs-gitlab-243.23654.19.zip": "sha256-VKGZLlL8ALjr6JEQtjhXiIxNrnTPXIoXMToJkJux2dw=",
     "https://plugins.jetbrains.com/files/23043/635877/MermaidChart-1.1.8.zip": "sha256-ssaSY1I6FopLBgVKHUyjBrqzxHLSuI/swtDfQWJ7gxU=",
     "https://plugins.jetbrains.com/files/23927/668616/Extra_IDE_Tweaks-2025.1.1.zip": "sha256-nOPYnvLuApgpQwHBhRE3MJLDl2pE4bCz/6XHQQTZfA8=",
     "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip": "sha256-U3gxwqLNGWNM26gTLJ7Q/9pBf9hbriSPvMvrE8EZVmc=",
