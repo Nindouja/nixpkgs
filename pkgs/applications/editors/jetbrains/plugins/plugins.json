@@ -911,6 +911,38 @@
       },
       "name": "darcula-pitch-black"
     },
+    "14708": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar",
+        "243.22562.218": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar",
+        "243.22562.220": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar",
+        "243.22562.250": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar",
+        "243.23654.112": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar",
+        "243.23654.114": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar",
+        "243.23654.115": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar",
+        "243.23654.116": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar",
+        "243.23654.117": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar",
+        "243.23654.119": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar",
+        "243.23654.120": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar",
+        "243.23654.19": "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar"
+      },
+      "name": "mario-progress-bar"
+    },
     "16604": {
       "compatible": [
         "clion",
@@ -1255,6 +1287,7 @@
     "https://plugins.jetbrains.com/files/1347/667258/scala-intellij-bin-2024.3.35.zip": "sha256-4I75KqXyFl73S63O+00usrg8QBcuBRBgfjRmCQMpNks=",
     "https://plugins.jetbrains.com/files/14004/636643/protoeditor-243.22562.13.zip": "sha256-Tgu8CfDhO6KugfuLNhmxe89dMm+Qo3fmAg/8hwjUaoc=",
     "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar": "sha256-eXInfAqY3yEZRXCAuv3KGldM1pNKEioNwPB0rIGgJFw=",
+    "https://plugins.jetbrains.com/files/14708/475401/MarioProgressBar-1.9.jar": "sha256-mB09zvUg1hLXl9lgW1NEU+DyVel1utZv6s+mFykckYY=",
     "https://plugins.jetbrains.com/files/164/590339/IdeaVIM-2.16.0.zip": "sha256-uMIrYoZE16X/K96HuDJx8QMh6wUbi4+qSw+HJAq7ukI=",
     "https://plugins.jetbrains.com/files/164/666347/IdeaVIM-2.18.1.zip": "sha256-wkh88imoNLt9Q7M6chu28+e0EhudpVGN4ZhvfSdj/l4=",
     "https://plugins.jetbrains.com/files/16604/671364/Extra_ToolWindow_Colorful_Icons_Subscription-2025.1.3.zip": "sha256-U2kNQtumZ71+G3maxxXPVsLL8Q+8YonpC4ejr1DYMbo=",
