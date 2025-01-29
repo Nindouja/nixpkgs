@@ -84,6 +84,38 @@
       },
       "name": "string-manipulation"
     },
+    "4230": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": null,
+        "243.22562.218": null,
+        "243.22562.220": null,
+        "243.22562.250": null,
+        "243.23654.112": null,
+        "243.23654.114": null,
+        "243.23654.115": null,
+        "243.23654.116": null,
+        "243.23654.117": null,
+        "243.23654.119": null,
+        "243.23654.120": null,
+        "243.23654.19": null
+      },
+      "name": "bashsupport"
+    },
     "6884": {
       "compatible": [
         "clion",
