@@ -539,6 +539,38 @@
       },
       "name": "-deprecated-rust-beta"
     },
+    "8195": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": null,
+        "243.22562.218": "https://plugins.jetbrains.com/files/8195/630064/toml-243.21565.122.zip",
+        "243.22562.220": "https://plugins.jetbrains.com/files/8195/630064/toml-243.21565.122.zip",
+        "243.22562.250": "https://plugins.jetbrains.com/files/8195/630064/toml-243.21565.122.zip",
+        "243.23654.112": "https://plugins.jetbrains.com/files/8195/672659/toml-243.23654.183.zip",
+        "243.23654.114": "https://plugins.jetbrains.com/files/8195/672659/toml-243.23654.183.zip",
+        "243.23654.115": "https://plugins.jetbrains.com/files/8195/672659/toml-243.23654.183.zip",
+        "243.23654.116": "https://plugins.jetbrains.com/files/8195/672659/toml-243.23654.183.zip",
+        "243.23654.117": "https://plugins.jetbrains.com/files/8195/672659/toml-243.23654.183.zip",
+        "243.23654.119": "https://plugins.jetbrains.com/files/8195/672659/toml-243.23654.183.zip",
+        "243.23654.120": "https://plugins.jetbrains.com/files/8195/672659/toml-243.23654.183.zip",
+        "243.23654.19": "https://plugins.jetbrains.com/files/8195/672659/toml-243.23654.183.zip"
+      },
+      "name": "toml"
+    },
     "8554": {
       "compatible": [
         "clion",
@@ -1554,6 +1586,8 @@
     "https://plugins.jetbrains.com/files/7425/603907/WakaTime.jar": "sha256-Z7ZWDomXnTdHFKOElMkt53imef6aT7H5XeD6lOOFxfQ=",
     "https://plugins.jetbrains.com/files/7499/642327/gittoolbox-600.0.9_233-signed.zip": "sha256-jYBv7bzq4mLOI0KtVj1FLSCM60+WNGoN0Hmq4CavB2U=",
     "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip": "sha256-rpJ0tPIf3mw5KLSv+wx16mXVKA1PxKTktgCYzKU3cU4=",
+    "https://plugins.jetbrains.com/files/8195/630064/toml-243.21565.122.zip": "sha256-vKigewUGi06by9/6a9HbjN51zPAIafdk6w4MFG4kwG8=",
+    "https://plugins.jetbrains.com/files/8195/672659/toml-243.23654.183.zip": "sha256-OFoWuz5z0BcZJqWkS+vkcD/Q0e5IUnQRY84/GEQQIb8=",
     "https://plugins.jetbrains.com/files/8554/654690/featuresTrainer-243.22562.233.zip": "sha256-JugbJM8Lr2kbhP9hdLE3kUStl2vOMUB5wGTwNLxAZd0=",
     "https://plugins.jetbrains.com/files/8554/672476/featuresTrainer-243.23654.180.zip": "sha256-YRf5sj+quf/dQv6eFU6f190vWW+RHtyGS+S2a6DhUoM=",
     "https://plugins.jetbrains.com/files/8607/606922/NixIDEA-0.4.0.16.zip": "sha256-9GMqs/hSavcw1E4ZJTLDH1lx3HEeQ5NR8BT+Q9pN3io=",
