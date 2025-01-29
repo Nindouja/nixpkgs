@@ -1180,6 +1180,38 @@
       },
       "name": "extra-ide-tweaks"
     },
+    "24559": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip",
+        "243.22562.218": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip",
+        "243.22562.220": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip",
+        "243.22562.250": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip",
+        "243.23654.112": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip",
+        "243.23654.114": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip",
+        "243.23654.115": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip",
+        "243.23654.116": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip",
+        "243.23654.117": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip",
+        "243.23654.119": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip",
+        "243.23654.120": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip",
+        "243.23654.19": "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip"
+      },
+      "name": "extra-tools-pack"
+    },
     "25594": {
       "compatible": [
         "clion",
@@ -1238,6 +1270,7 @@
     "https://plugins.jetbrains.com/files/22707/645830/continue-intellij-extension-0.0.83.zip": "sha256-vMV26l2J4vhFnjrJnluwf/3qKoWNSvTfMFKPmquJJ50=",
     "https://plugins.jetbrains.com/files/23043/635877/MermaidChart-1.1.8.zip": "sha256-ssaSY1I6FopLBgVKHUyjBrqzxHLSuI/swtDfQWJ7gxU=",
     "https://plugins.jetbrains.com/files/23927/668616/Extra_IDE_Tweaks-2025.1.1.zip": "sha256-nOPYnvLuApgpQwHBhRE3MJLDl2pE4bCz/6XHQQTZfA8=",
+    "https://plugins.jetbrains.com/files/24559/672148/Extra_Tools_Pack-2025.1.2.zip": "sha256-U3gxwqLNGWNM26gTLJ7Q/9pBf9hbriSPvMvrE8EZVmc=",
     "https://plugins.jetbrains.com/files/25594/623962/Nix_LSP-0.1.1.zip": "sha256-Uq5RdVQTyqRMsEwDZT6Kldv2alt0EVMCABEt/xQUHow=",
     "https://plugins.jetbrains.com/files/631/673131/python-243.23654.189.zip": "sha256-4uuHNZhmSh+vqARBZ+ilRmkYnr0otZdgeZUPziv+lQc=",
     "https://plugins.jetbrains.com/files/6981/654905/ini-243.22562.236.zip": "sha256-kL/A2R8j2JKMU61T/xJahPwKPYmwFCFy55NPSoBh/Xc=",
