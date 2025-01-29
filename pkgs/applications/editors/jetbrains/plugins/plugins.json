@@ -291,6 +291,38 @@
       },
       "name": "asciidoc"
     },
+    "7499": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "241.19072.1155": "https://plugins.jetbrains.com/files/7499/642327/gittoolbox-600.0.9_233-signed.zip",
+        "243.22562.218": "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip",
+        "243.22562.220": "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip",
+        "243.22562.250": "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip",
+        "243.23654.112": "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip",
+        "243.23654.114": "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip",
+        "243.23654.115": "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip",
+        "243.23654.116": "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip",
+        "243.23654.117": "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip",
+        "243.23654.119": "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip",
+        "243.23654.120": "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip",
+        "243.23654.19": "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip"
+      },
+      "name": "gittoolbox"
+    },
     "7793": {
       "compatible": [
         "clion",
@@ -1088,6 +1120,8 @@
     "https://plugins.jetbrains.com/files/7322/673130/python-ce-243.23654.189.zip": "sha256-7P9JsxCDWUf0HPHZNPjoF8Ivh3Ks7AO5s2kWm+Cq9j4=",
     "https://plugins.jetbrains.com/files/7391/561441/asciidoctor-intellij-plugin-0.42.2.zip": "sha256-oKczkLHAk2bJRNRgToVe0ySEJGF8+P4oWqQ33olwzWw=",
     "https://plugins.jetbrains.com/files/7391/658997/asciidoctor-intellij-plugin-0.43.6.zip": "sha256-3RJ7YVFtynyqeLIzdrirCMbWNZmUkJ+DT/9my71H0Dk=",
+    "https://plugins.jetbrains.com/files/7499/642327/gittoolbox-600.0.9_233-signed.zip": "sha256-jYBv7bzq4mLOI0KtVj1FLSCM60+WNGoN0Hmq4CavB2U=",
+    "https://plugins.jetbrains.com/files/7499/667439/gittoolbox-600.0.14_243-signed.zip": "sha256-rpJ0tPIf3mw5KLSv+wx16mXVKA1PxKTktgCYzKU3cU4=",
     "https://plugins.jetbrains.com/files/8554/654690/featuresTrainer-243.22562.233.zip": "sha256-JugbJM8Lr2kbhP9hdLE3kUStl2vOMUB5wGTwNLxAZd0=",
     "https://plugins.jetbrains.com/files/8554/672476/featuresTrainer-243.23654.180.zip": "sha256-YRf5sj+quf/dQv6eFU6f190vWW+RHtyGS+S2a6DhUoM=",
     "https://plugins.jetbrains.com/files/8607/606922/NixIDEA-0.4.0.16.zip": "sha256-9GMqs/hSavcw1E4ZJTLDH1lx3HEeQ5NR8BT+Q9pN3io=",
